@@ -6,4 +6,4 @@ I have used the Selenium package in Python to scrape all store locations from Ta
 
 ## trader_joes.py
 
-I have used the BzeautifulSoup package in Python (bs4) to scrape all store locations from Trader Joe's website	
+I have used the BeautifulSoup package in Python (bs4) to scrape all store locations from Trader Joe's website	
