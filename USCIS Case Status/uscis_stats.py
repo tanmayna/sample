@@ -1,3 +1,6 @@
+#Enter you case number here
+your_case_number = ''
+
 # Importing packages
 
 import pandas as pd
@@ -15,10 +18,6 @@ import time
 import os
 import warnings
 warnings.filterwarnings("ignore")
-
-
-#Enter you case number here
-your_case_number = ''
 
 def create_phantomjs(url, wait_time = 1):
     '''
