@@ -1,0 +1,29 @@
+Your case: Case Was Received
+
+
+Checking 100 random cases of series YSC1990253XXX
+100 to go..
+90 to go..
+80 to go..
+70 to go..
+60 to go..
+50 to go..
+40 to go..
+30 to go..
+20 to go..
+10 to go..
+
+
+Case Was Received: 71
+Card Was Picked Up By The United States Postal Service: 2
+Card Was Delivered To Me By The Post Office: 7
+Fees Were Waived: 3
+Case Rejected Because I Sent An Incorrect Fee: 8
+Correspondence Was Received And USCIS Is Reviewing It: 4
+Notice Was Returned To USCIS Because The Post Office Could Not Deliver It: 2
+Form G-28 Was Rejected Because It Was Improperly Filed: 1
+New Card Is Being Produced: 1
+Card Is Being Returned to USCIS by Post Office: 1
+
+
+Percent Cases Completed: 14.457831325301205%
