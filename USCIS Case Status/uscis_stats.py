@@ -1,5 +1,5 @@
 #Enter you case number here
-your_case_number = ''
+your_case_number = 'YSC2090254738'
 
 # Importing packages
 
@@ -114,6 +114,10 @@ def check_case_percentage(d):
         pass
     try:
         successful_cases+= d['Card Was Returned To USCIS']
+    except:
+        pass
+    try:
+        successful_cases+= d['Case Was Updated To Show Fingerprints Were Taken']
     except:
         pass
 
