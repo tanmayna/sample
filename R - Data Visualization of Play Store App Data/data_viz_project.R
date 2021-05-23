@@ -99,8 +99,7 @@ barplot(free_and_paid
         , names.arg = c(1,2,3,4,5)
         , border = NA
         , cex.lab = 1.5
-        , cex.main = 2
-        )
+        , cex.main = 2)
 
 # Piechart Installs
 pie_df <- df %>%
