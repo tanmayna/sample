@@ -155,7 +155,6 @@ par(bty="n")
 plot(genres$n
     , type = "p"
     , names.arg = genres$Category
-    #, main = "Distribution of Installs by App Genres"
     , col = "White"
     , ylab = "Number of Apps"
     , xlab = "Genres"
