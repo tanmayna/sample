@@ -255,7 +255,7 @@ clean_word_cloud <- function(text){
   docs<-tm_map(docs, 
                removeWords, 
                c("and","the","our","that","for","are","also","more","has","must"
-                 ,"have","should","this","with","game","get"))
+                 ,"have","should","this","with","get"))
   return(docs)
   
 }
